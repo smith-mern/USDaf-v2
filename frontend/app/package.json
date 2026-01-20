@@ -41,7 +41,7 @@
     "ts-pattern": "^5.7.0",
     "valibot": "^1.1.0",
     "viem": "^2.29.0",
-    "wagmi": "^2.15.2"
+    "wagmi": "^3.0.0"
   },
   "devDependencies": {
     "@babel/plugin-transform-private-methods": "^7.27.1",
