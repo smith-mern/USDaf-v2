@@ -22,7 +22,7 @@
     "geist": "^1.4.1",
     "next": "^15.3.1",
     "react": "19.1.0",
-    "react-cosmos-core": "^6.2.0",
+    "react-cosmos-core": "^7.1.1",
     "react-cosmos-plugin-boolean-input": "^6.2.3",
     "react-dom": "19.1.0",
     "ts-pattern": "^5.7.0"
